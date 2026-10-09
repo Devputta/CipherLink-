@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%20(1).jfif" width="100" height="100" alt="CipherLink Logo" style="border-radius: 20px;" />
+ <p align="center">
+  <a href="https://github.com/Devputta/CipherLink-">
+    <img src="https://raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%20(1).jfif" alt="CipherLink Project Logo" width="220" />
+  </a>
 </p>
-
 <h1 align="center">CipherLink Security & Cryptographic Model</h1>
 
 <p align="center">
